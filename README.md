@@ -12,12 +12,12 @@ Using historical rain information from Australia regions in 10 years as research
 ![image](https://user-images.githubusercontent.com/102453318/183581327-f57347d5-5414-45df-9133-57cec49e2f36.png)
 
 ## Objectives
-- What factors and conditions in current day that will cause rain in the
-next day?
-- What machine learning algorithms are suitable for predicting rain in the
-next day?
+- What factors and conditions in current day that will cause rain in the next 
+day?
+- What machine learning algorithms are suitable for predicting rain in the next 
+day?
 - Where is the location that has the highest frequency of rain?
-- What is the impact of the predictive model for business problems
+- What is the impact of the predictive model for business problems that 
 operating in the agricultural sector?
 
 ## Conclusion
