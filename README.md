@@ -2,7 +2,7 @@
 
 The weather has a significant impact on many life aspects, one of which is agricultural industry and because of that, being able to predict it helps farmers in their day-to-day decisions such as how to plan efficiently, minimize costs and maximize yields.
 
-![image](https://user-images.githubusercontent.com/102453318/183580916-4786ac94-ef3c-42d9-a367-3d19894e0e3d.png)
+![image](https://user-images.githubusercontent.com/102453318/191394448-3c753cfd-2a40-40a2-88c0-d3e4977737a6.png)
 
 A major agricultural company needs to have an accurate rain prediction algorithm that will improve their decision-making on typical farming activities such as planting
 and irrigating.
