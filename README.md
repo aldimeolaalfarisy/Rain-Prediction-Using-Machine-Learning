@@ -26,4 +26,4 @@ impact to cause rain in the next day.
 - Random Forest classifier is the best model algorithm for predicting rain the next day because have the
 highest AUC score than other classifier algorithm.
 - The location with the most rain frequency is Portland with rain season tend to happen in May until August.
-- Based on simulation, model performance can help saving company cost for water supply by 31%.
+- Based on simulation, model performance can help saving company cost for water supply by 32%.
